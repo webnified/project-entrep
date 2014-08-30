@@ -1,0 +1,13 @@
+{
+  "name": "project-entrep",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-datauri": "~0.4.0",
+    "grunt-cssjoin": "~0.3.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-imagemin": "~0.8.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-recess": "~0.5.0"
+  }
+}
